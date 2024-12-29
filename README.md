@@ -4,7 +4,7 @@
 
 This repository contains a homepage replica of Amazon, designed to practice and showcase foundational web development skills.
 
-🌐 Live Demo: https://lnkd.in/gGj4YMHt<br>
+🌐 Live Demo: https://puneethvnaik.github.io/amazon-homepage-clone/<br>
 
 **Features**<br>
 ✅ Fully responsive design optimized for various devices<br>
