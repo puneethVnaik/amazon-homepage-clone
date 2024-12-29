@@ -6,13 +6,13 @@ This repository contains a homepage replica of Amazon, designed to practice and 
 
 🌐 Live Demo: https://lnkd.in/gGj4YMHt<br>
 
-**Features**
+**Features**<br>
 ✅ Fully responsive design optimized for various devices<br>
 ✅ Intuitive navigation bar with dropdowns<br>
 ✅ Static product images and descriptions<br>
 ✅ Minimalistic footer
 
-**Technologies Used**
+**Technologies Used**<br>
 HTML5: For semantic and structured content.<br>
 CSS3: To style the layout and ensure responsiveness.<br>
 GitHub Pages: For hosting and deployment.
